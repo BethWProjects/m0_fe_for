@@ -3,8 +3,8 @@
 
 // Challenge 1
 // Use a for statement to log to the console all even numbers between 25 and 75.
-for (var i = 26; i < 75; i+=2) {
-  console.log("1: " + i);
+for (var i = 24; i < 78; i+=2){
+  console.log("10: " + i);
 }
 
 
